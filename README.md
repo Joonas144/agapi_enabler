@@ -1,2 +1,2 @@
 # agapi_enabler
-This is just a file that disables agapi-scripts if turned off
+This is just a file that disables the Agapi project (now Cassandra) if turned off
